@@ -4,6 +4,7 @@ import App from './App.vue'
 import Element from 'element-ui'
 import './styles/element-variables.scss'
 import '@/styles/index.scss'
+import './permission'
 
 Vue.config.productionTip = false
 Vue.use(Element)
